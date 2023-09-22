@@ -4,7 +4,7 @@
   "description": "About Learning Course Dicoding In Class 'Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud'",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
